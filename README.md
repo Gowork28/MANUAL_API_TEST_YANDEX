@@ -23,8 +23,8 @@
 
 | Документ | Ссылка |
 |----------|--------|
-| 📋 **Чек-лист** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/1j71DLfWUbzkSHwQ9wG7kxS_Ob44fiDAKNbkha3h0wXg/edit#gid=2006427015) |
-| 🐞 **Баг-репорты** | [![Google Sheets](https://img.shields.io/badge/Баг--репорты-FF6C37?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/1j71DLfWUbzkSHwQ9wG7kxS_Ob44fiDAKNbkha3h0wXg/edit#gid=1831872143) |
+| **Чек-лист** | [![Google Sheets](https://img.shields.io/badge/Чек--лист-34A853?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/1j71DLfWUbzkSHwQ9wG7kxS_Ob44fiDAKNbkha3h0wXg/edit#gid=2006427015) |
+| **Баг-репорты** | [![Google Sheets](https://img.shields.io/badge/Баг--репорты-FF6C37?style=for-the-badge&logo=google-sheets)](https://docs.google.com/spreadsheets/d/1j71DLfWUbzkSHwQ9wG7kxS_Ob44fiDAKNbkha3h0wXg/edit#gid=1831872143) |
 
 # Результаты:
 
@@ -39,7 +39,7 @@
 **Содержание отчета:**
 - Чек-лист: 110 тест-кейсов
 - Найдено багов: 36
-- Время тестирования: 12 часов
+- Время тестирования: 5 часов
 - Детальный список дефектов с ID (БН-1...БУ-36)
 - Выводы и рекомендации
 - **Статус:** Функциональность не готова к релизу
